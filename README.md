@@ -1,7 +1,7 @@
 # First create React App with SUPABASE
 Play ground CRUD. Simple CRUD.
 TODO : Add search function (maybe)
-([picture or gif url](https://github.com/jedi0605/ReactSupabase/blob/master/Screen%20shot.png))
+![My Remote Image](https://github.com/jedi0605/ReactSupabase/blob/master/Screen%20shot.png))
 
 # Getting Started with Create React App
 
